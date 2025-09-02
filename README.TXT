@@ -15,3 +15,4 @@ How to start this project: Create one or more TicketMachine objects.
 Question 2: the balance comes back to 0. 
 Question 3 : when you put a high amount of money it wont generate that money and when u put a low amount it still does the same thing, it wont let you generate. I didnt receive any refunds. 
 Question 5: the printTicket looks different because it shows the get price initials when you created a new ticketMachine.
+Question 7: when its in public class TicketMachine, it doesnt say any errors but when i put class public we see a change or background color meaning that the brackets dont have any rol there and that the code isnt correct.
