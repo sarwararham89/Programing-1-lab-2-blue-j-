@@ -46,7 +46,12 @@ public class TicketMachine
     {
         return balance;
     }
-
+    
+    public void setBalance(int newbalance)
+    { 
+        balance = newbalance; 
+    } 
+    
     /**
      * Receive an amount of money from a customer.
      */
