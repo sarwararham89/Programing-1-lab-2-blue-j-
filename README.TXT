@@ -14,3 +14,4 @@ Purpose of project: To illustrate the basics of fields, constructors, and method
 How to start this project: Create one or more TicketMachine objects.
 Question 2: the balance comes back to 0. 
 Question 3 : when you put a high amount of money it wont generate that money and when u put a low amount it still does the same thing, it wont let you generate. 
+Question 5: the printTicket looks different because it shows the get price initials when you created a new ticketMachine.
