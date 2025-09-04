@@ -25,4 +25,5 @@ Question 13: private boolean alive; name is alive since its followed by the type
 Question 14: No they are not classes. why? because a class isnt a type, its a constructor. 
 Question 15: 15.1; yes it does mather because it has a structor to follow meaning that the visability modifier comes first and then the type and finally the variable name. 15.2; No it doesnt give any clue. 15.3; it gives me an error because it isnt the rigth structor of code. 
 Question 16: Yes it is necessary to have the semicolon because it marks the end of an decleration. 
- 
+Question 18: public Student
+Question 19: 
