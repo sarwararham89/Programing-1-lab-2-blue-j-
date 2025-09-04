@@ -34,4 +34,31 @@ Question 23: The difference between the headers is that they are two different m
 Question 24: A call for getbalance would characterize has "how many balance do i have left?" 
 Question 25: This change doesnt show any error because it doesnt mather 
 Question 27; it shows that it isnt a statement. 
-
+Question 28: For the getPrice we see that the structor is " public int getPrice()" and in printTicket its " public void printTicket()" the difference is the return type. 
+Question 29: No they dont have because the return type " void " doesnt have any return statements. 
+Question 30: So after inserting the amount in insertMoney, we can see that this amount was transfered to the getbalance. 
+Question 31: /**
+* Increase score by the given number of points.
+*/
+public void increaseScore(int points)
+{
+      score = score + points
+// TODO: Increase score by the value in points.
+}
+Question 32: Yes it a mutator because it modify a state of an object. 
+Question 33: /**
+*/
+* Reduce price by the given amount.
+public void discount(int amount)
+{
+   dicount = discount - price
+// TODO: Subtract amount from price.
+}
+Question 34: private int age( int currentAge) 
+{ 
+  age = currentAge 
+} 
+Question 35: private boolean alive() 
+{ 
+  
+question 35: 
