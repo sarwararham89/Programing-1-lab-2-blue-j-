@@ -19,6 +19,8 @@ Question 7: when its in public class TicketMachine, it doesnt say any errors but
 Question 8: its possible to leave out public. 
 Question 9: its not possible to leave out class, it shows many code errors.
 Question 10: the fields are: private int price; private int balance;private int total. the constructors is the public TicketMachine and the methods are getPrice;getBalance;setBalance;InsertMoney;printTicket. 
-Question 11: the int or void isnt placed after the public which makes it different from others and makes it into the constructors and that the methods names are different from thr class name.
+Question 11: the int or void isnt placed after the public which makes it different from others and makes it into the constructors and that the methods names are different from the class name.
 Question 12: the types of fields are int and if its a upercase letter, it turns it into a class. 
-Question 13: so for the first one its an int because of the lowercase letter and the two others represent a class since their letter are a upercase. 
+Question 13: private boolean alive; name is alive since its followed by the type. private Person tutor; name is tutor. private Game game; name is game.
+Question 14: No they are not classes. why? because a class isnt a type, its a constructor. 
+Question 15: 15.1; yes it does mather because it has a structor to follow meaning that the visability modifier comes first and then the type and finally the variable name. 15.2;
