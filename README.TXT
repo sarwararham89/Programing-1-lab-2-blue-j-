@@ -22,8 +22,16 @@ Question 10: the fields are: private int price; private int balance;private int 
 Question 11: the int or void isnt placed after the public which makes it different from others and makes it into the constructors and that the methods names are different from the class name.
 Question 12: the types of fields are int and if its a upercase letter, it turns it into a class. 
 Question 13: private boolean alive; name is alive since its followed by the type. private Person tutor; name is tutor. private Game game; name is game.
-Question 14: No they are not classes. why? because a class isnt a type, its a constructor. 
+Question 14: No they are not classes. why? because a class isnt a type.  
 Question 15: 15.1; yes it does mather because it has a structor to follow meaning that the visability modifier comes first and then the type and finally the variable name. 15.2; No it doesnt give any clue. 15.3; it gives me an error because it isnt the rigth structor of code. 
 Question 16: Yes it is necessary to have the semicolon because it marks the end of an decleration. 
 Question 18: public Student
-Question 19: 
+Question 19: String title, double price. 
+Question 20: 20.1; yes 20.2:yes 20.3:yes 
+Question 21: name = petName;
+Question 22: public Date (int month, int day, int year); 
+Question 23: The difference between the headers is that they are two different method names, and the difference between the bodies are that they have two different return names.
+Question 24: A call for getbalance would characterize has "how many balance do i have left?" 
+Question 25: This change doesnt show any error because it doesnt mather 
+Question 27; it shows that it isnt a statement. 
+
