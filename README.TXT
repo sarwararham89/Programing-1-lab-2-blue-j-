@@ -60,5 +60,21 @@ Question 34: private int age( int currentAge)
 } 
 Question 35: private boolean alive() 
 { 
-  
-question 35: 
+  alive = alive
+} 
+Question 36: When i inspect the TicketMachine, the private int price gives me 0 even if i put the cost at 67. 
+Question 37: My cat has green eyes. 
+Question 39: ##################
+# The BlueJ Line
+# Ticket
+# price cents.
+##################   It will print this meaning that the price is now showing with the cents. 
+Question 40: ##################
+# The BlueJ Line
+# Ticket
+#price cents.
+##################    It shows the same thing but there is one difference, there isnt any space between hashtag and price. 
+Question 42: They show the same output of 0 cents because of step number 36. 
+Question 43: No it doesnt have the same output. 43.1; these mean that it changes into cents.
+Question 44: After modifying it, we can see that it doesnt show how much amount we should put since it was modifyed to 1000 cents. 
+Question 45: 
