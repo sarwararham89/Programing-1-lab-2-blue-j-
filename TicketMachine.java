@@ -30,20 +30,28 @@ public class TicketMachine
         balance = 0;
         total = 0;
     }
-
+    
+    public TicketMachine()
+    
+    {
+        price = 1000;
+        balance = 0;
+        total = 0;
+    }
+    
     /**
      * Return the price of a ticket.
      */
     public int getPrice()
     {
-        return price;
+         return price;
     }
 
     /**
      * Return the amount of money already inserted for the
      * next ticket.
      */
-    public int getBalance()
+    public int getAmount()
     {
         return balance;
     }
@@ -52,6 +60,11 @@ public class TicketMachine
     { 
         balance = newbalance; 
     } 
+    
+    public int getTotal() 
+    { 
+        return total;
+    }
     
     /**
      * Receive an amount of money from a customer.
@@ -71,8 +84,8 @@ public class TicketMachine
         // Simulate the printing of a ticket.
         System.out.println("##################");
         System.out.println("# The BlueJ Line");
-        System.out.println("# Ticket");
-        System.out.println("# " + price + " cents.");
+        System.out.printf("# %d cents. %n ",price);
+        System.out.println("#price cents.");
         System.out.println("##################");
         System.out.println();
 
@@ -80,5 +93,21 @@ public class TicketMachine
         total = total + balance;
         // Clear the balance.
         balance = 0;
+    }
+    
+    public void prompt() 
+    {
+        // Please insert the correct amount of money. 
+    } 
+    
+    public void showPrice() 
+    { 
+        System.out.println("The price of a ticket is " + price + " cents.");
+    }
+    
+    public void empty()
+    { 
+        total = 0;
+     
     }
 }
