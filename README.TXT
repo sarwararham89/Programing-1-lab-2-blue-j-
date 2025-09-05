@@ -78,4 +78,6 @@ Question 42: They show the same output of 0 cents because of step number 36.
 Question 43: No it doesnt have the same output. 43.1; these mean that it changes into cents.
 Question 44: After modifying it, we can see that it doesnt show how much amount we should put since it was modifyed to 1000 cents. 
 Question 45: first one is at 1000 cents since its already set to that value while in the otherhand even if you had a value it doesnt had nothing. 
-Question 46: 
+Question 46: No it doesnt need the parameters. 
+Part 3: better-ticket-machine project
+
